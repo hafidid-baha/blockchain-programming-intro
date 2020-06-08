@@ -12,7 +12,7 @@ contract TodoList{
     }
 
     // create a mapping to store the tasks objects inside
-    mapping(uint=>Task) public tasks;
+    mapping(uint => Task) public tasks;
 
     // create a function to create a single task
     function createTask(string memory _content) public {
