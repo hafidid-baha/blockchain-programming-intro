@@ -1,5 +1,5 @@
 {
-  "name": "blockchain toso",
+  "name": "blockchain-toso",
   "version": "1.0.0",
   "description": "intro to block chain programming",
   "main": "truffle-config.js",
